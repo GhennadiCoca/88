@@ -1,20 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3abafe-d73e-4031-b797-4960c34c285a" name="Changes" comment="" />
+    <list default="true" id="0a3abafe-d73e-4031-b797-4960c34c285a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lesson_03/Type_and_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_03/exeption_my.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GhennadiCoca"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GhennadiCoca/88.git",
+    "accountId": "85bcd97a-5128-4483-842b-748d59ea9164"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000006051881" />
+      <entry key="S5" value="1.0002836696282522" />
+      <entry key="S10" value="1.0269557358127643" />
+      <entry key="S30" value="1.9125193460697145" />
+      <entry key="S60" value="4.206874961310518" />
+      <entry key="M2" value="8.981221895992338" />
+      <entry key="M5" value="21.61368997516509" />
+      <entry key="M10" value="40.4754938890573" />
+      <entry key="M15" value="58.11118556727657" />
+      <entry key="M30" value="103.83874011490437" />
+      <entry key="H1" value="161.12490579200858" />
+      <entry key="H2" value="211.12793790298434" />
+      <entry key="H4" value="245.01702344458388" />
+      <entry key="D1" value="279.35349628549324" />
+      <entry key="W1" value="285.89045215621513" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.004020664277536E-71" />
+      <entry key="S2" value="2.341670681810621E-18" />
+      <entry key="S5" value="9.177932820732672E-8" />
+      <entry key="S10" value="3.5389791834542877E-4" />
+      <entry key="S30" value="0.11205161230743994" />
+      <entry key="S60" value="0.5380991439151392" />
+      <entry key="M2" value="1.2608922067347352" />
+      <entry key="M5" value="2.5313111051108077" />
+      <entry key="M10" value="3.873023121144487" />
+      <entry key="M15" value="4.752454999550053" />
+      <entry key="M30" value="6.191677832953803" />
+      <entry key="H1" value="7.326821865001727" />
+      <entry key="H2" value="8.075728494893681" />
+      <entry key="H4" value="8.512552336633359" />
+      <entry key="D1" value="8.914903929978902" />
+      <entry key="W1" value="8.987744191813142" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9460576467255959" />
+      <entry key="MS500" value="0.9889709163809315" />
+      <entry key="S2" value="0.9972312519062926" />
+      <entry key="S5" value="0.9991310497427854" />
+      <entry key="S10" value="1.0237477030051276" />
+      <entry key="S30" value="1.9874353590979914" />
+      <entry key="S60" value="4.675651157654163" />
+      <entry key="M2" value="10.153130923104944" />
+      <entry key="M5" value="24.04976106298373" />
+      <entry key="M10" value="44.24949698026018" />
+      <entry key="M15" value="62.76436261836908" />
+      <entry key="M30" value="109.9386023132392" />
+      <entry key="H1" value="168.38002711080222" />
+      <entry key="H2" value="219.15667580194955" />
+      <entry key="H4" value="253.50232117889112" />
+      <entry key="D1" value="288.2632243630952" />
+      <entry key="W1" value="294.87743973140135" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6,
   "fromUser": false
 }]]></component>
   <component name="ProjectId" id="3Ij81q2zJ7PsKwdtMhWysVFx9cC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,15 +110,85 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Type_and_function.executor": "Run",
+    "Python.exeption_my.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/ghennadicoca/PycharmProjects/88",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.exeption_my">
+    <configuration name="Type_and_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="88" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_03/Type_and_function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exeption_my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="88" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_03/exeption_my.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exeption_my" />
+        <item itemvalue="Python.Type_and_function" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
