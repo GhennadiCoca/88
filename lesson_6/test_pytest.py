@@ -106,3 +106,4 @@ def test_shopping_list(shopping_list):
     assert shopping_list[0] == "milk"
     assert "breat" in shopping_list
     assert "apple" not in shopping_list
+    
